@@ -8,7 +8,7 @@ THIS PACK IS STILL A WIP! A large portion of the textures have already been done
 
 WARNING! THIS MOD MAY TAKE A WHILE TO LOAD! if you want to cut things down a bit, you can extract the resource pack, go into the assets folder, and delete mods you don't have installed! (DO NOT DELETE THE ASSETS/MINECRAFT FOLDER, MANY OF THE THINGS IN THIS PACK RELY ON IT)
 
-# KEY: 
+## KEY: 
 Some mods feature textures/edits of textures not by me, Mojang or PACP.
 - Mods that include textures/edites of textures from [Reminiscence](https://www.curseforge.com/minecraft/modpacks/reminiscence) are marked with a 🔺Triangle.
 - Mods that include textures from 4J Studios Mashup Packs OR Legacy Console Edition exclusive assets are marked with a 🟡Circle.
